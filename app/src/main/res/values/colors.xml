@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand palette -->
+    <color name="uol_navy">#0B2545</color>
+    <color name="uol_navy_dark">#081A31</color>
+    <color name="uol_gold">#C9A227</color>
+    <color name="uol_gold_light">#E5C158</color>
+    <color name="uol_white">#FFFFFF</color>
+    <color name="uol_bg">#F5F7FA</color>
+    <color name="uol_card">#FFFFFF</color>
+    <color name="uol_text_primary">#1A202C</color>
+    <color name="uol_text_secondary">#4A5568</color>
+    <color name="uol_divider">#E2E8F0</color>
+    <color name="uol_error">#C53030</color>
+    <color name="uol_success">#2F855A</color>
+</resources>
